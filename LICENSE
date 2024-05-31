@@ -1,9 +1,17 @@
 Copyright (c) 2024 Jakub Mańczak (@jakubmanczak)
 
-Permission is hereby granted to anyone to use this software for any purpose, including commercially, and to alter it and redistribute it freely, provided the following restrictions are met:
+This software is provided 'as-is', without any express or implied
+warranty. In no event will the authors be held liable for any damages
+arising from the use of this software.
 
-1. This notice must not be removed or altered from any source distribution.
-2. The origin of this software must not be misrepresented. You must not claim that you wrote the original software.
-3. Altered source versions must be plainly marked as such. A derivative work must not be misrepresented as the original software. A derivative work must not be named or versioned in a way that allows confusion between the derivative and original.
+Permission is granted to anyone to use this software for any purpose,
+including commercial applications, and to alter it and redistribute it
+freely, subject to the following restrictions:
 
-This software is provided 'as-is', without any kind of warranty. Never shall the authors be held liable for any damages arising from the use of this software.
+1. The origin of this software must not be misrepresented; you must not
+   claim that you wrote the original software. If you use this software
+   in a product, an acknowledgment in the product documentation would be
+   appreciated but is not required.
+2. Altered source versions must be plainly marked as such, and must not be
+   misrepresented as being the original software.
+3. This notice may not be removed or altered from any source distribution.
